@@ -1,2 +1,2 @@
 # myprojects
-It contains my projects which was done for studying purpose usind Django
+It contains my projects which was done for studying purpose using Django
